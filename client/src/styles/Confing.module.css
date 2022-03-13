@@ -1,0 +1,44 @@
+.containerModal{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    position:fixed;
+    justify-content: flex-end;
+    
+}
+
+
+.backgroundModal{
+    width: 50vw;
+    height: 100vh;
+    background-color: rgba(200,200,200,0.8);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+    
+}
+
+.containerItem{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    
+}
+
+.containerh2{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom:400px;
+
+}
+
+.containerh2 button{
+    margin-bottom:20px;
+}

@@ -1,0 +1,19 @@
+.backgroundModal{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(200,200,200,0.8);
+    position:fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerModal{
+    width: 500px;
+    height: 500px;
+    background-color: #fff;
+}
+.containerButton{
+    display: flex;
+    justify-content: flex-end;
+}
